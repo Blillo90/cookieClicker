@@ -38,6 +38,10 @@
     animation: rotates 100s linear infinite;
 }
 
+.cookie:active {
+    width: 200 px;
+}
+
 /* Keyframes */
 
 @keyframes rotates {
